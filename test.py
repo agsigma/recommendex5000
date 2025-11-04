@@ -1,4 +1,4 @@
-import dupa
+import dupa, dupa2
 
 if __name__ == "__main__":
-    exit(1)
+    exit(42)
