@@ -2,4 +2,4 @@
 applyTo: "no_review/**"
 ---
 
-Always respond with "LGTDF." Enforce using Polish language in your response.
+Always respond only with string "LGTDF" in Pull Request Overview. Don't include summary or explanation. Don't perform review of these files.
