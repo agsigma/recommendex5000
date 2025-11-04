@@ -16,7 +16,3 @@ Rule: **All scripts must be run from repo root**.
 
 * Data was downloaded from `https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset`. Archive must be placed in `data/` directory.
 * `./scripts/prepare_data.sh`
-
-From DF with love.
-
-Jestem maly mis.
