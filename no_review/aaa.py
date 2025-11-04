@@ -1,5 +1,5 @@
-import nicto
+import missing_import
 
 if __name__ == "__main__":
-    nicto.run()
-    exit(42)
+    missing_import.show_me_your_review()
+    exit("blablabla")
